@@ -7,11 +7,11 @@ This project demonstrates a **Node.js web application** deployed automatically u
 
  # Project Overview
 
-- **Language/Framework:** Node.js (Express.js)
+- **Language/Framework:** Node.js 
 - **CI/CD Tool:** Jenkins
 - **Server:** AWS EC2 (Ubuntu)
 - **Version Control:** GitHub
-- **Build Tool:** npm (depending on project setup)
+- **Build Tool:** npm 
 - **Pipeline Type:** Declarative Jenkins Pipeline (Jenkinsfile)
 
 ---
